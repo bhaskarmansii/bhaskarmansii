@@ -17,7 +17,7 @@ I'm always looking for feedback on my projects, let me know what you think.
 
 **Always open to connect:**
 - LinkedIn: https://www.linkedin.com/in/mansi-bhaskar/ 
-- Email: bhaskar03mansi@gmail.com 
+- Email: mansi.bhaskar.23@gmail.com
 
 
 **Bonus:** If you are passionate about Data, AI, Analytics or interested in trading theories about the universe(aliens are optional but highly encouraged) and everything. Let's grab a coffee and chat ☕️
