@@ -8,7 +8,7 @@ A data enthusiast, absorbing knowledge and learning how to build bridges between
 
 👀 Curious about what I've been up to?
 
-_Check out my project portfolio:_ https://github.com/bhaskarmansii & https://www.notion.so/Project-Portfolio-e6a106c6c2654964acbb4b345ba7e4d7 
+_Check out my project portfolio:_ https://github.com/bhaskarmansii & https://www.notion.so/Project-Portfolio-e6a106c6c2654964acbb4b345ba7e4d7 \
 _BI Portfolio:_ https://www.novypro.com/profile_projects/mansibhaskar 
 
 I'm always looking for feedback on my projects, let me know what you think.
