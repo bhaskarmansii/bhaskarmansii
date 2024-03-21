@@ -8,7 +8,7 @@ A data enthusiast, absorbing knowledge and learning how to build bridges between
 
 👀 Curious about what I've been up to?
 
-_Check out below projects_
+_Check out the below projects!👇_
 
 _BI Portfolio:_ https://www.novypro.com/profile_projects/mansibhaskar 
 
