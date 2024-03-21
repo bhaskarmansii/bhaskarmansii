@@ -20,8 +20,6 @@ I'm always looking for feedback on my projects, let me know what you think.
 - Email: mansi.bhaskar.23@gmail.com
 
 
-**Bonus:** If you are passionate about Data, AI, Analytics or interested in trading theories about the universe(aliens are optional but highly encouraged) and everything. Let's grab a coffee and chat ☕️
-
 
 <!---
 bhaskarmansii/bhaskarmansii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
