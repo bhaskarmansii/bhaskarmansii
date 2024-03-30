@@ -3,10 +3,11 @@
 
 Welcome to my GitHub profile. Here's a bit about me:
 
+I'm a data science intern looking to transition into a full-time analytics role. My experience in fraud prevention and chargeback analysis, combined with my current internship, has solidified my passion for data-driven insights. Over the past 2.7 years, I've honed my skills in data extraction, transformation, and visualization, using them to identify patterns that reduce financial risk. Now, I'm eager to leverage these skills and my internship learnings in a role that allows me to contribute to broader organizational goals through data-driven decision-making.
 I'm a data enthusiast, actively applying my skills to bridge the gap between data and business challenges. I'm driven by the opportunity to harness data's potential to enhance user experiences and tackle real-world challenges.
 
 **My dream gig?**\
- I envision joining a team where data leads innovations and drives impactful decisions. 
+ I envision joining a team where I can apply my skills to bridge the gap between data and business challenges data, leading to impactful decisions that drive innovation. 
 
 _Explore My Projects👇_
 
