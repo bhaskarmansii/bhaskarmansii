@@ -10,10 +10,11 @@ I'm a data science intern looking to transition into a full-time analytics role.
 
 _Explore My Projects👇_
 
+- Portfolio Website: https://mansibhaskar03.wixsite.com/portfolio 
+
 - Check out my interactive business intelligence projects here,
 _BI Portfolio:_ https://www.novypro.com/profile_projects/mansibhaskar 
 
-- _Project Insights:_ https://fluff-vulture-99d.notion.site/Mansi-Bhaskar-e6a106c6c2654964acbb4b345ba7e4d7
 
 I welcome any feedback on my projects, let me know what you think.
 
